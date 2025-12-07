@@ -1119,7 +1119,7 @@ function App() {
                 >
                   <h4 className="text-xl font-bold mb-4">Our Virtual Method</h4>
                   <ul className="space-y-3">
-                    <li className="flex items-center gap-3"><CheckCircle size={18} /> Included (Free)</li>
+
                     <li className="flex items-center gap-3"><CheckCircle size={18} /> Fast & Efficient</li>
                     <li className="flex items-center gap-3"><CheckCircle size={18} /> Unlimited Styles</li>
                   </ul>
