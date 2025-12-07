@@ -828,7 +828,7 @@ function App() {
                 transition={{ duration: 0.8, delay: 0.2, ease: [0.4, 0, 0.2, 1] }}
               >
                 <img
-                  src="/images/samantha-profile.jpg"
+                  src="/images/samantha-profile-3.png"
                   alt="Samantha Martinez - Real Estate Agent"
                   className="w-full h-full object-cover rounded-3xl grayscale hover:grayscale-0 transition-all duration-500"
                   style={{ objectPosition: 'center 20%' }}
@@ -2047,7 +2047,7 @@ function App() {
               onClick={(e) => e.stopPropagation()}
             >
               <img
-                src="/images/samantha-profile.jpg"
+                src="/images/samantha-profile-3.png"
                 alt="Samantha Martinez - Real Estate Agent"
                 className="w-full h-auto rounded-lg shadow-2xl"
                 loading="lazy"
