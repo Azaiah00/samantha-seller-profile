@@ -835,9 +835,7 @@ function App() {
                   onClick={() => setShowPhotoModal(true)}
                 />
                 {/* Decorative elements */}
-                <div className="absolute -bottom-6 -left-6 w-24 h-24 bg-black text-white rounded-full flex items-center justify-center font-black text-xl z-20 shadow-gold-xl hidden lg:flex glass-strong">
-                  TOP 1%
-                </div>
+
               </motion.div>
 
               {/* Bottom: About Content with Glassmorphism */}
